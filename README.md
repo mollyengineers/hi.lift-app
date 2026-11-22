@@ -25,10 +25,10 @@ The customizable homepage includes features the user chooses to see, our focus i
 | Function Name | Description |
 | --- | --- |
 | Workout Creation | Create custom workouts from premade exercises, specifying reps and sets. |
-| Workout Scheduling & Logging | Log and schedule workouts using in-app calendar. Users may create a new workout or select a saved workout. |
+| Workout Scheduling | Schedule workouts using in-app calendar. Users may create a new workout or select a saved workout. |
 | Health Tracking | Input health metrics manually or through the integration of the health app and wearables (Ultrahuman smart ring, Oura ring, Apple Watch, etc.). |
 | Metrics Summary | Allow users to view the summary of their health and workout data over time. |
-| Homepage Customization | Allow users to customize their homepage using a variety of modules. |
+| Custom Homepage | Allow users to customize their homepage using a variety of modules. |
 | Widget Creation | Allow users to create widgets to add to their mobile homescreen. |
 <br>
 
